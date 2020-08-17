@@ -1,4 +1,4 @@
-# python excerscise
+# python exercise
 
 Write a small interactive python utility that calculates matrix multiplication.
 None of the variables are passed as arguments, everything will be handled at runtime, please see the
