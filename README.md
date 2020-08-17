@@ -1,7 +1,7 @@
-# python
+# python excerscise
 
-Write a small interacGve python utility that calculates matrix multiplication.
-None of the variables are passed as arguments, everything will be handled at runGme, please see the
+Write a small interactive python utility that calculates matrix multiplication.
+None of the variables are passed as arguments, everything will be handled at runtime, please see the
 example run (user inputs are in red):
 
 $ ./mx_mul.py
